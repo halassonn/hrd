@@ -1,0 +1,101 @@
+{
+  "main": {
+    "light": {
+      "id": "T_001",
+      "name": "Blue",
+      "colors": {
+        "success": "#3EB595",
+        "error": "#FF665A",
+        "warn":"#F2B705",
+        "primary": {
+          "main": "#07775a",
+          "dark": "#2bbd7e",
+          "light": "#66ffa6",
+          "text": "#F5F5F5"
+        },
+        "secondary": {
+          "main": "#263238",
+          "dark": "#000a12",
+          "light": "#4f5b62",
+          "text": "#F5F5F5"
+        },
+        "main": "#F5F5F5",
+        "text": "#000",
+        "dark": "#0086c3",
+        "light": "#73e8ff",
+        "hover": "rgba(0, 0, 0, 0.512)",
+        "modal": "rgba(0, 0, 0, 0.712)",
+        "body": "#fff",
+
+        "button": {
+          "text": "#FFFFFF",
+          "background": "#000000"
+        },
+        "input": {
+          "text": "#000",
+          "background": "rgba(255, 255, 255, 0.812)"
+        },
+        "select": {
+          "text": "#000",
+          "background": "rgba(255, 255, 255, 0.812)",
+          "option": "rgba(255, 255, 255, 0.812)"
+        },
+        "list": {
+          "text": "rgba(255, 255, 255, 0.812)",
+          "background": "rgba(255, 255, 255, 0.112)",
+          "header": "rgba(255, 255, 255, 0.99)"
+        },
+        "link": {
+          "text": "teal",
+          "opacity": 1
+        }
+      },
+      "font": "Tinos"
+    },
+    "dark": {
+      "id": "T_007",
+      "name": "dark",
+      "colors": {
+        "text": "#fff",
+        "primary": {
+          "main": "#424242",
+          "dark": "#1b1b1b",
+          "light": "#6d6d6d",
+          "text": "#fff"
+        },
+        "secondary": {
+          "main": "#263238",
+          "dark": "#000a12",
+          "light": "#4f5b62",
+          "text": "#fff"
+        },
+        "modal": "rgba(0, 0, 0, 0.712)",
+        "hover": "rgba(255, 255, 255, 0.112)",
+        "body": "rgba(0, 0, 0, 0.812)",
+        "button": {
+          "text": "#ffffff",
+          "background": "#0d47a1"
+        },
+        "input": {
+          "text": "rgba(255, 255, 255, 0.812)",
+          "background": "rgba(255, 255, 255, 0.112)"
+        },
+        "select": {
+          "text": "rgba(255, 255, 255, 0.812)",
+          "background": "rgba(255, 255, 255, 0.112)",
+          "option": "rgba(0, 0, 0, 0.612)"
+        },
+        "list": {
+          "text": "rgba(255, 255, 255, 0.812)",
+          "background": "rgba(255, 255, 255, 0.112)",
+          "header": "rgba(0, 0, 0, 0.992)"
+        },
+        "link": {
+          "text": "#0d47a1",
+          "opacity": 0.8
+        }
+      },
+      "font": "Ubuntu"
+    }
+  }
+}
